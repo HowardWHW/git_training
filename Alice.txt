@@ -5,3 +5,5 @@ another edit
 Stashed.
 Some changes
 More text
+Some text
+Another change 
